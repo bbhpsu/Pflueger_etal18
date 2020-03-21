@@ -12,7 +12,7 @@ Documentation for Github data repository:
  
 ================================================================
 
-This Python script is a resource accompanying the following manuscript: Bryan J. Pflueger, Khai Nguyen, Tamara Bogdanovic, Michael Eracleous, Jessie C. Runnoe, Steinn Sigurdsson, and Todd Boroson 2018, “Likelihood for Detection of sub-parsec SBHBs in Spectroscopic Surveys”, ApJ, submitted (arXiv:1803.02368). It is provided as is, free of charge and with no technical support. We ask you to please cite the original manuscript if you use the script or any of the manuscript data.
+This Python script is a resource accompanying the following manuscript: Bryan J. Pflueger, Khai Nguyen, Tamara Bogdanovic, Michael Eracleous, Jessie C. Runnoe, Steinn Sigurdsson, and Todd Boroson 2018, “Likelihood for Detection of sub-parsec SBHBs in Spectroscopic Surveys”, ApJ, 861, 59 (arXiv:1803.02368). It is provided as is, free of charge and with no technical support. We ask you to please cite the original manuscript if you use the script or any of the manuscript data.
 
 The script produces a 2D likelihood map as a function of the mass ratio and orbital semi-major axis, as shown in Figure 8 of Pflueger et al. (2018). The figure is created as a PDF file with a default name <Likelihood_q_a.pdf>. The script includes three modules, the main module <main.py>, the module called by the main module <functions.py>, as well as the input ascii file <input.dat>, which contains the model parameters and constants used in the calculation.
 
